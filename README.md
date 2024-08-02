@@ -1,16 +1,26 @@
-# treemap_challenge
+# Atividade para entrevista de emprego
 
-A new Flutter project.
+App para mostrar o uso do treemap, utilizei uma API de crypto moedas, da Coingecko.
 
-## Getting Started
+## Images
 
-This project is a starting point for a Flutter application.
+![app](app.gif)
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### Ferramentas que você vai precisar.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+[Git](https://git-scm.com)
+[Flutter](https://docs.flutter.dev/get-started/install)
+[VSCode](https://code.visualstudio.com/)
+
+#### Abra seu vscode e cole esses codigos.
+
+```bash
+# clonando o projeto para o seu pc:
+$ git clone git@github.com:Av3z/treemap_challenge.git
+
+# entrando na pasta do projeto:
+$ cd treemap_challenge
+
+# para inciar o projeto:
+$ flutter run
